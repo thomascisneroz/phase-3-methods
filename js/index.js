@@ -5,6 +5,7 @@
 */
 function greetProgrammer() {
   console.log("Hello, programmer!");
+  return"Hello, programer!"
 }
 
 /*
